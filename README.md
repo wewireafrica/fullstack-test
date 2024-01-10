@@ -7,6 +7,9 @@ This challenge requires you to build a currency conversion application that conv
 of a user with our supported currencies ( Find them below this file ). You are required to use NestJS ( Typescript ), 
 React ( Typescript ), Prisma, and Postgres. 
 
+Figma Design: 
+https://www.figma.com/file/vhkvzd5PatqKZewwEWXnMq/Full-Stack-Take-Home?type=design&node-id=0%3A1&mode=design&t=MqGgSDnKK0gYBOig-1
+
 **Tips**
 1. Create a monorepo with your `ui` and `api`. `yarn workspaces` is a simple and easy way to do this.
 2. Design a database schema to store currency exchange rates, wallets and their balances for the supported currencies
@@ -14,7 +17,6 @@ and transactions to record the movement of money between wallets.
 3. Implement CRUD operations and endpoints for managing the models you create.
 4. Adding user authentication is an optional addition but not required and does not affect your submission.
 5. Making good use of database transactions is a plus.
-6. The look of your user interface does not determine your performance
    
 
 **Evaluation Criteria:**
