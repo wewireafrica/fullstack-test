@@ -32,3 +32,6 @@ and transactions to record the movement of money between wallets.
     - United States Dollar ( USD )
     - Kenyan Shillings  ( KES )
     - Euro ( EUR )
+
+**Submissions**
+Your completed work should be in a public repo and the link shared via `hr@wewireafrica.com` 
